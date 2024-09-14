@@ -17,4 +17,4 @@ jobs:
           date
       - name: Say current directory
         run: |
-          ls
+          ls -l
